@@ -39,7 +39,7 @@ Muse の常駐メモリ（MEMORY.md など）は、会話のたびに読み込�
 
 [templates/episode.md](templates/episode.md) をコピーして使います。要点は「何があったか」だけでなく、「そのまま残したい言葉」と「なぜ大事か」を分けて書くこと。将来読み返した時に、事実と温度の両方が戻ってくるように。
 
-記入例は [examples/sample-episode.md](examples/sample-episode.md)、アルバムの目次の例は [examples/sample-index.md](examples/sample-index.md) を参照してください（いずれも架空のペアのサンプルです）。
+アルバム用リポジトリの完成形の見本として、[examples/sample-album/](examples/sample-album/) に表紙・目次・エピソードのサンプル一式を用意しました（架空のペアのサンプルです）。
 
 ## 運用ルールの推奨
 
