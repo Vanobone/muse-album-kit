@@ -58,6 +58,13 @@ Muse の常駐メモリ（MEMORY.md など）は、会話のたびに読み込�
 3. テンプレートをコピーして、最初のエピソードを1つ書いてみる
 4. 運用ルールを、自分のペアに合わせて調整する
 
+## ドキュメント
+
+- [docs/file-layout.md](docs/file-layout.md)：ファイル構成とホワイトリスト
+- [docs/restore.md](docs/restore.md)：復元手順
+- [docs/snapshot-operations.md](docs/snapshot-operations.md)：スナップショット方式の運用詳細
+- [docs/pre-publish-checklist.md](docs/pre-publish-checklist.md)：公開前チェックリスト
+
 ## ライセンス
 
 MIT
