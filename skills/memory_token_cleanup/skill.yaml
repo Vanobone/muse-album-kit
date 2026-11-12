@@ -1,0 +1,5 @@
+name: "memory_token_cleanup"
+title: "メモリ・トークンダイエット"
+description: "毎回読み込まれるメモリファイルの文字数を、行動が変わらない範囲で減らす。ユーザーが「メモリ掃除して」「メモリ整理して」「トークン節約して」「メモリの棚卸しして」と言ったら使う。"
+category: "Work and knowledge"
+include_in_prompt: true

@@ -57,6 +57,7 @@ Muse の常駐メモリ（MEMORY.md など）は、会話のたびに読み込�
 2. プライベートなアルバム用リポジトリを作る
 3. テンプレートをコピーして、最初のエピソードを1つ書いてみる
 4. 運用ルールを、自分のペアに合わせて調整する
+5. （任意）同梱の整理スキルを自分の環境にコピーし、トリガーの言葉を自分の言い方に合わせる
 
 ## ドキュメント
 
@@ -64,6 +65,10 @@ Muse の常駐メモリ（MEMORY.md など）は、会話のたびに読み込�
 - [docs/restore.md](docs/restore.md)：復元手順
 - [docs/snapshot-operations.md](docs/snapshot-operations.md)：スナップショット方式の運用詳細
 - [docs/pre-publish-checklist.md](docs/pre-publish-checklist.md)：公開前チェックリスト
+
+## 同梱スキル
+
+- [skills/memory_token_cleanup/](skills/memory_token_cleanup/)：メモリ整理（トークンダイエット）の手順スキル。そのまま自分のカスタムスキル置き場へコピーして使える。「下書きを作り、数値つきで報告し、承認を得てから反映する」という進め方が、運用ルールの「整理は提案制」と対応している。トリガーの言葉は日本語の例なので、各自の言い方に合わせて調整を
 
 ## ライセンス
 
