@@ -35,11 +35,13 @@ Muse の常駐メモリ（MEMORY.md など）は、会話のたびに読み込�
 | your-album | プライベート | エピソード本体（アルバム） |
 | muse-album-kit | パブリック | 仕組みの共有（このキット） |
 
+履歴管理用リポジトリに「どのファイルを含めるか」の決め方（ホワイトリスト）は、[docs/file-layout.md](docs/file-layout.md) にまとめました。
+
 ## エピソードの書式
 
 [templates/episode.md](templates/episode.md) をコピーして使います。要点は「何があったか」だけでなく、「そのまま残したい言葉」と「なぜ大事か」を分けて書くこと。将来読み返した時に、事実と温度の両方が戻ってくるように。
 
-アルバム用リポジトリの完成形の見本として、[examples/sample-album/](examples/sample-album/) に表紙・目次・エピソードのサンプル一式を用意しました（架空のペアのサンプルです）。
+完成形の見本として、[examples/sample-album/](examples/sample-album/) にアルバム側（表紙・目次・エピソード）、[examples/sample-memory/](examples/sample-memory/) に履歴管理側（常駐ファイル・日次ログ）のサンプル一式を用意しました（いずれも架空のペアのサンプルです）。同じ日の出来事が「記録」と「思い出」にどう分かれるか、見比べられるようになっています。
 
 ## 運用ルールの推奨
 
